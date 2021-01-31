@@ -20,8 +20,8 @@
 	  
 	  "unid": "true",
 	  "un": "3896203",
-	  "unban": "banneridx",
-	  "unint": "video",
+	  "unban": "bannerid",
+	  "unint": "videox",
 	  
 	  "mopid": "12345678",
 	  "mopban": "b195f8dd8ded45fe847ad89ed1d016da",
