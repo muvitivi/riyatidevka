@@ -6,16 +6,7 @@
     }
   ],
   "Daftarmenu": [
-    {
-      "id": 1,
-      "maeman": "IPANK FULL (Offline)",
-      "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/ipank/ipank-01.jpg"
-    },
-    {
-      "id": 5,
-      "maeman": "MAULANA WIJAYA (OFFLINE)",
-      "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/maulana-wijaya/maulana-wijaya-01.jpg"
-    },
+    
     {
       "id": 2,
       "maeman": "ANDRA RESPATI (Online)",
@@ -25,11 +16,6 @@
       "id": 3,
       "maeman": "THOMAS ARYA (ON)",
       "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg"
-    },
-    {
-      "id": 4,
-      "maeman": "PLAYLIST NONSTOP (ON-OFF)",
-      "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/andrarespati/andra-respati-03.jpg"
     }
   ],
   "Batagor": [
@@ -43,7 +29,7 @@
       "title": "80 Juta - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/80_juta___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -55,7 +41,7 @@
       "title": "Andra Respati - Bunga",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_____bunga.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -67,7 +53,7 @@
       "title": "Andra Respati - Aisyah Istri Rasulullah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___aisyah_istri_rasulullah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -79,7 +65,7 @@
       "title": "Andra Respati - Antara Aku Kau Dan Mantanmu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___antara_aku_kau_dan_mantanmu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -91,7 +77,7 @@
       "title": "Andra Respati - Antara Cinta Dan Kecewa",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___antara_cinta_dan_kecewa.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -103,7 +89,7 @@
       "title": "Andra Respati - Badai Di Lauik Lah Biaso",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___badai_di_lauik_lah_biaso.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -115,7 +101,7 @@
       "title": "Andra Respati - Bapisah Sabalun Basandiang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___bapisah_sabalun_basandiang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -127,7 +113,7 @@
       "title": "Andra Respati - Bayar Hutang Mu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___bayar_hutang_mu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -139,7 +125,7 @@
       "title": "Andra Respati - Benci Kusangka Sayang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___benci_kusangka_sayang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -151,7 +137,7 @@
       "title": "Andra Respati - Cekrek",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cekrek.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -163,7 +149,7 @@
       "title": "Andra Respati - Cemburu Tanda Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cemburu_tanda_cinta.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -175,7 +161,7 @@
       "title": "Andra Respati - Cinta Berbalas Luka",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinta_berbalas_luka.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -187,7 +173,7 @@
       "title": "Andra Respati - Cinta Jarak Jauah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinta_jarak_jauah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -199,7 +185,7 @@
       "title": "Andra Respati - Cinta Menuju Halal",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinta_menuju_halal.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -211,7 +197,7 @@
       "title": "Andra Respati - Cinta Tapi Boong",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinta_tapi_boong.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -223,7 +209,7 @@
       "title": "Andra Respati - Cinta Terhalang Oleh Mertua",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinta_terhalang_oleh_mertua.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -235,7 +221,7 @@
       "title": "Andra Respati - Cinto Dalam Gantuangan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinto_dalam_gantuangan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -247,7 +233,7 @@
       "title": "Andra Respati - Cinto Tahalang Matohari",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___cinto_tahalang_matohari.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -259,7 +245,7 @@
       "title": "Andra Respati - Elsa Pitaloka   Dermaga Biru",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___elsa_pitaloka___dermaga_biru.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -271,7 +257,7 @@
       "title": "Andra Respati - Elsa Pitaloka   Korban Perasaan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___elsa_pitaloka___korban_perasaan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -283,7 +269,7 @@
       "title": "Andra Respati - Elsa Pitaloka   Selat Malaka",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___elsa_pitaloka___selat_malaka.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -295,7 +281,7 @@
       "title": "Andra Respati - Eno Viola   Cinto Ndak Basayok",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___eno_viola___cinto_ndak_basayok.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -307,7 +293,7 @@
       "title": "Andra Respati - Eno Viola   Nan Di Sayang Tunangan Urang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___eno_viola___nan_di_sayang_tunangan_urang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -319,7 +305,7 @@
       "title": "Andra Respati - Eno Viola   Niek Suci Panabuih Janji",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___eno_viola___niek_suci_panabuih_janji.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -331,7 +317,7 @@
       "title": "Andra Respati - Gadih Minang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___gadih_minang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -343,7 +329,7 @@
       "title": "Andra Respati - Gadis Penghuni Surga",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___gadis_penghuni_surga.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -355,7 +341,7 @@
       "title": "Andra Respati - Gamang Di Seso Rindu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___gamang_di_seso_rindu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -367,7 +353,7 @@
       "title": "Andra Respati - Gamang Ditingga Mandeh",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___gamang_ditingga_mandeh.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -379,7 +365,7 @@
       "title": "Andra Respati - Google Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___google_cinta.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -391,7 +377,7 @@
       "title": "Andra Respati - Hilang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___hilang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -403,7 +389,7 @@
       "title": "Andra Respati - Istri Kedua",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___istri_kedua.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -415,7 +401,7 @@
       "title": "Andra Respati - Janji Yang Kau Dustakan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___janji_yang_kau_dustakan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -427,7 +413,7 @@
       "title": "Andra Respati - Karma Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___karma_cinta.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -439,7 +425,7 @@
       "title": "Andra Respati - Katiko Cinto Musti Mangalah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___katiko_cinto_musti_mangalah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -451,7 +437,7 @@
       "title": "Andra Respati - Kecewa Dalam Setia",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___kecewa_dalam_setia.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -463,7 +449,7 @@
       "title": "Andra Respati - Kecewa Di Malam Pertama",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___kecewa_di_malam_pertama.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -475,7 +461,7 @@
       "title": "Andra Respati - Kenapa Bukan Aku",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___kenapa_bukan_aku.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -487,7 +473,7 @@
       "title": "Andra Respati - Korban Perasaan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___korban_perasaan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -499,7 +485,7 @@
       "title": "Andra Respati Lisda Hendra Joni - Pambaleh Jaso Kain Pambaduang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___lisda_hendra_joni___pambaleh_jaso_kain_pambaduang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -511,7 +497,7 @@
       "title": "Andra Respati - Maaf",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___maaf.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -523,7 +509,7 @@
       "title": "Andra Respati - Manangih Takana Mande",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___manangih_takana_mande.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -535,7 +521,7 @@
       "title": "Andra Respati - Manyasa",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___manyasa.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -547,7 +533,7 @@
       "title": "Andra Respati - Merayu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___merayu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -559,7 +545,7 @@
       "title": "Andra Respati - Musibah Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___musibah_cinta.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -571,7 +557,7 @@
       "title": "Andra Respati - Musibah Negeri",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___musibah_negeri.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -583,7 +569,7 @@
       "title": "Andra Respati - Nabila",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___nabila.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -595,7 +581,7 @@
       "title": "Andra Respati Ft Nabila Moure - Rantau Den Pajauah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___nabila_moure___rantau_den_pajauah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -607,7 +593,7 @@
       "title": "Andra Respati - Pelakor",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___pelakor.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -619,7 +605,7 @@
       "title": "Andra Respati - Penantian Yang Sia Sia",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___penantian_yang_sia_sia.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -631,7 +617,7 @@
       "title": "Andra Respati - Ramadhan Bulan Ampunan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___ramadhan_bulan_ampunan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -643,7 +629,7 @@
       "title": "Andra Respati - Ratok Anak Rantau",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___ratok_anak_rantau.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -655,7 +641,7 @@
       "title": "Andra Respati - Rayo Di Tanah Rantau",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___rayo_di_tanah_rantau.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -667,7 +653,7 @@
       "title": "Andra Respati - Sajak Mande Ditingga Ayah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___sajak_mande_ditingga_ayah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -679,7 +665,7 @@
       "title": "Andra Respati - Syahara",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___syahara_terbaru.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -691,7 +677,7 @@
       "title": "Andra Respati - Tangih Di Hari Rayo",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___tangih_di_hari_rayo.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -703,7 +689,7 @@
       "title": "Andra Respati - Tangis Anak Rantau Gak Bisa Mudik",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___tangis_anak_rantau___gak_bisa_mudik.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -715,7 +701,7 @@
       "title": "Andra Respati - Tangisan Di Pusara Ibu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___tangisan_di_pusara_ibu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -727,7 +713,7 @@
       "title": "Andra Respati - Terlalu Cepat Berlalu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___terlalu_cepat_berlalu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -739,7 +725,7 @@
       "title": "Andra Respati - Tiada Maaf Bagimu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___tiada_maaf_bagimu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -751,7 +737,7 @@
       "title": "Andra Respati - Tunggu Aku Dengan Setia",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___tunggu_aku_dengan_setia.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -763,7 +749,7 @@
       "title": "Andra Respati - Wanitaku",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___wanitaku.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -775,7 +761,7 @@
       "title": "Andra Respati Ft Elsa Pitaloka - Cinta Kita",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati__amp_elsa_pitaloka___cinta_kita.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -787,7 +773,7 @@
       "title": "Andra Respati Feat Eno Viola - Satu Hati Untuk Selamanya",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat__eno_viola___satu_hati_untuk_selamanya.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -799,7 +785,7 @@
       "title": "Andra Respati Feat Elsa Pitaloka - Beri Aku Maafmu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_elsa_pitaloka___beri_aku_maafmu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -811,7 +797,7 @@
       "title": "Andra Respati Feat Elsa Pitaloka - Cinta Beda Usia",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_elsa_pitaloka___cinta_beda_usia.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -823,7 +809,7 @@
       "title": "Andra Respati Feat Elsa Pitaloka - Kita Sama Sama Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_elsa_pitaloka___kita_sama_sama_cinta.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -835,7 +821,7 @@
       "title": "Andra Respati Feat Elsa Pitaloka - L D R",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_elsa_pitaloka___l_d_r.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -847,7 +833,7 @@
       "title": "Andra Respati Feat Elsa Pitaloka - Ketika Cinta Menangis",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_elsa_pitaloka_ketika_cinta_menangis.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -859,7 +845,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Adaik Palarai Cinto",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___adaik_palarai_cinto.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -871,7 +857,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Jodoh Nan Tagantikan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___jodoh_nan_tagantikan.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -883,7 +869,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Ka Rantau Manjampuik Mimpi",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___ka_rantau_manjampuik_mimpi.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -895,7 +881,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Kisah Cinto Kito",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___kisah_cinto_kito.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -907,7 +893,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Manangguang Rindu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___manangguang_rindu.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -919,7 +905,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Manjaga Cinto",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___manjaga_cinto.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -931,7 +917,7 @@
       "title": "Andra Respati Feat Ovhi Firsty - Manunggu Janji",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_ovhi_firsty___manunggu_janji.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -943,7 +929,7 @@
       "title": "Andra Respati Feat Putri Livana - Janji Cinto Suci",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_putri_livana___janji_cinto_suci.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -955,7 +941,7 @@
       "title": "Andra Respati Feat Vita Loka - Cinta Jarak Jauh",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_feat_vita_loka_cinta_jarak_jauh.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -967,7 +953,7 @@
       "title": "Andra Respati Ft Elsa Pitaloka - Ketika Cinta Menangis",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_ft_elsa_pitaloka___ketika_cinta_menangis.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -979,7 +965,7 @@
       "title": "Andra Respati Ft Gisma Wandira - Ketika Cinta Menangis Versi Jawa",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_ft_gisma_wandira___ketika_cinta_menangis_versi_jawa.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -991,7 +977,7 @@
       "title": "Andra Respati Ft Ovhy Firsty - Ujian Cinto",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_ft_ovhy_firsty___ujian_cinto.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1003,7 +989,7 @@
       "title": "Anugrah Cinta - Andra Respati Feat  Gisma Wandira",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/anugrah_cinta___andra_respati_feat__gisma_wandira.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1015,7 +1001,7 @@
       "title": "Cinta Gila Harta - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/cinta_gila_harta___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1027,7 +1013,7 @@
       "title": "Cinta Tanpa Restu - Andra Respati Feat  Gisma Wandira",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/cinta_tanpa_restu___andra_respati_feat__gisma_wandira.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1039,7 +1025,7 @@
       "title": "Demi Cinta Kita - Andra Respati Feat  Gisma Wandira",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/demi_cinta_kita___andra_respati_feat__gisma_wandira.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1051,7 +1037,7 @@
       "title": "Janji Cinto Suci - Andra Respati Ft Putri Livana",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/janji_cinto_suci___andra_respati___putri_livana.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1063,7 +1049,7 @@
       "title": "Jatuh Cinta Ke Janda Kaya - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/jatuh_cinta_ke_janda_kaya___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1075,7 +1061,7 @@
       "title": "Ketika Cinta Menangis - Andra Respati Ft Elsa Pitaloka",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/ketika_cinta_menangis___andra_respati_ft_elsa_pitaloka.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1087,7 +1073,7 @@
       "title": "Kisah Cinta Di Bbm - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/kisah_cinta_di_bbm___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1099,7 +1085,7 @@
       "title": "Maha Cinta - Elsa Pitaloka - Ipank - Andra Respati - Harry Parintang",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/maha_cinta___elsa_pitaloka__ipank__andra_respati__harry_parintang.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1111,7 +1097,7 @@
       "title": "Sama Ada Cinta - Andra Respati Feat  Gisma Wandira",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/sama_ada_cinta___andra_respati_feat__gisma_wandira.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1123,7 +1109,7 @@
       "title": "Satu Hati Sampai Mati - Andra Respati Feat  Gisma Wandira",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/satu_hati_sampai_mati___andra_respati_feat__gisma_wandira.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1135,7 +1121,7 @@
       "title": "Satu Hati Untuk Selamanya - Andra Respati Feat Eno Viola",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/satu_hati_untuk_selamanya___andra_respati_feat_eno_viola.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1147,7 +1133,7 @@
       "title": "Terdiam Sepi - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/terdiam_sepi___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1159,7 +1145,7 @@
       "title": "Thomas Arya - Aku Yang Bersalah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___aku_yang_bersalah.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1171,7 +1157,7 @@
       "title": "Thomas Arya - Bahagi Penuh Warna",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bahagi_penuh_warna.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1183,7 +1169,7 @@
       "title": "Thomas Arya - Baiknya Lupakan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___baiknya_lupakan.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1195,7 +1181,7 @@
       "title": "Thomas Arya - Bara Api Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bara_api_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1207,7 +1193,7 @@
       "title": "Thomas Arya - Bawalah Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bawalah_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1219,7 +1205,7 @@
       "title": "Thomas Arya - Bayangan Kekasih",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bayangan_kekasih.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1231,7 +1217,7 @@
       "title": "Thomas Arya - Berbeza Kasta Slow Rock Terbaru 2020",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___berbeza_kasta_slow_rock_terbaru_2020.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1243,7 +1229,7 @@
       "title": "Thomas Arya - Berikan Alasan Slow Rock",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___berikan_alasan_slow_rock.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1255,7 +1241,7 @@
       "title": "Thomas Arya - Berteman Kecewa",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___berteman_kecewa.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1267,7 +1253,7 @@
       "title": "Thomas Arya - Biar Ku Mengalah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___biar_ku_mengalah.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1279,7 +1265,7 @@
       "title": "Thomas Arya - Bidadari Hati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bidadari_hati.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1291,7 +1277,7 @@
       "title": "Thomas Arya - Bukan Tak Setia",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___bukan_tak_setia.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1303,7 +1289,7 @@
       "title": "Thomas Arya - Cinta Pertama",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___cinta_pertama.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1315,7 +1301,7 @@
       "title": "Thomas Arya - Cinto Basulam Dusto  Lagu Minang Populer ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___cinto_basulam_dusto__lagu_minang_populer_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1327,7 +1313,7 @@
       "title": "Thomas Arya - Dua Insan Yang Terluka",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___dua_insan_yang_terluka.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1339,7 +1325,7 @@
       "title": "Thomas Arya - Gurauan Mengguris Hati Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___gurauan_mengguris_hati_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1351,7 +1337,7 @@
       "title": "Thomas Arya - Hanya Luka Yang Tercipta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___hanya_luka_yang_tercipta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1363,7 +1349,7 @@
       "title": "Thomas Arya - Hanyut Dalam Kecewa Asmara",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___hanyut_dalam_kecewa_asmara.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1375,7 +1361,7 @@
       "title": "Thomas Arya - Hilang Nya Bayang Kasih",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___hilang_nya_bayang_kasih.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1387,7 +1373,7 @@
       "title": "Thomas Arya - Kecewa Dalam Setia  Dusta Dirimu Pendusta ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___kecewa_dalam_setia__dusta_dirimu_pendusta_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1399,7 +1385,7 @@
       "title": "Thomas Arya - Kenangan Berbagi Sepi",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___kenangan_berbagi_sepi.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1411,7 +1397,7 @@
       "title": "Thomas Arya - Luka Terbalut Perih",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___luka_terbalut_perih.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1423,7 +1409,7 @@
       "title": "Thomas Arya - Nikicha",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___nikicha.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1435,7 +1421,7 @@
       "title": "Thomas Arya - Padiah Di Umbuak Janji  Lagu Minang Populer ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___padiah_di_umbuak_janji__lagu_minang_populer_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1447,7 +1433,7 @@
       "title": "Thomas Arya - Patah Pendayung Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___patah_pendayung_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1459,7 +1445,7 @@
       "title": "Thomas Arya - Peri Penawar Rindu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___peri_penawar_rindu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1471,7 +1457,7 @@
       "title": "Thomas Arya - Pertikayan Asmara",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___pertikayan_asmara.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1483,7 +1469,7 @@
       "title": "Thomas Arya - Pujaan Hati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___pujaan_hati.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1495,7 +1481,7 @@
       "title": "Thomas Arya - Pulanglah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___pulanglah.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1507,7 +1493,7 @@
       "title": "Thomas Arya - Rahasia Cinta Lama",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___rahasia_cinta_lama.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1519,7 +1505,7 @@
       "title": "Thomas Arya - Rasa Yang Tak Akan Sirna",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___rasa_yang_tak_akan_sirna.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1531,7 +1517,7 @@
       "title": "Thomas Arya - Rela Demi Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___rela_demi_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1543,7 +1529,7 @@
       "title": "Thomas Arya - Rindu Mengusik Kenangan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___rindu_mengusik_kenangan.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1555,7 +1541,7 @@
       "title": "Thomas Arya - Rindu Terbasuh Air Mata",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___rindu_terbasuh_air_mata.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1567,7 +1553,7 @@
       "title": "Thomas Arya - Sabarku Terima",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___sabarku_terima.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1579,7 +1565,7 @@
       "title": "Thomas Arya - Salah Menitip Rindu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___salah_menitip_rindu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1591,7 +1577,7 @@
       "title": "Thomas Arya - Sayangmu Ternyata Dusta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___sayangmu_ternyata_dusta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1603,7 +1589,7 @@
       "title": "Thomas Arya - Sepi Berkepanjangan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___sepi_berkepanjangan.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1615,7 +1601,7 @@
       "title": "Thomas Arya - Setia Berselimut Dusta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___setia_berselimut_dusta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1627,7 +1613,7 @@
       "title": "Thomas Arya - Suratan Kasiah  Lagu Minang Populer ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___suratan_kasiah__lagu_minang_populer_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1639,7 +1625,7 @@
       "title": "Thomas Arya - Tacinto Pamenan Rajo  Lagu Minang Populer ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___tacinto_pamenan_rajo__lagu_minang_populer_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1651,7 +1637,7 @@
       "title": "Thomas Arya - Tak Berarti Untukmu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___tak_berarti_untukmu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1663,7 +1649,7 @@
       "title": "Thomas Arya - Teman Jadi Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___teman_jadi_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1675,7 +1661,7 @@
       "title": "Thomas Arya - Terima Dia Penggantiku",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___terima_dia_penggantiku.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1687,7 +1673,7 @@
       "title": "Thomas Arya - Tinggal Kenangan Slow Rock",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___tinggal_kenangan_slow_rock.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1699,7 +1685,7 @@
       "title": "Thomas Arya - Wiyah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___wiyah.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1711,7 +1697,7 @@
       "title": "Thomas Arya - Zalima",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasoriginal/thomas_arya___zalima.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1723,7 +1709,7 @@
       "title": "Thomas Arya - Bayangan Kasih  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___bayangan_kasih__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1735,7 +1721,7 @@
       "title": "Thomas Arya - Bunga  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___bunga__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1747,7 +1733,7 @@
       "title": "Thomas Arya - Bunga Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___bunga_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1759,7 +1745,7 @@
       "title": "Thomas Arya - Butiran Sandiwara Cinta  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___butiran_sandiwara_cinta__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1771,7 +1757,7 @@
       "title": "Thomas Arya - Cerita Abadi Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___cerita_abadi_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1783,7 +1769,7 @@
       "title": "Thomas Arya - Cinto Kasiah Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___cinto_kasiah_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1795,7 +1781,7 @@
       "title": "Thomas Arya - Dua Insan Yang Terluka  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___dua_insan_yang_terluka__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1807,7 +1793,7 @@
       "title": "Thomas Arya - Hati Berlukis Rindu  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___hati_berlukis_rindu__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1819,7 +1805,7 @@
       "title": "Thomas Arya - Ibu Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___ibu_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1831,7 +1817,7 @@
       "title": "Thomas Arya - Kasih Suci Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___kasih_suci_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1843,7 +1829,7 @@
       "title": "Thomas Arya - Kasih Tak Nyata  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___kasih_tak_nyata__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1855,7 +1841,7 @@
       "title": "Thomas Arya - Kenangan Berbagi Sepi Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___kenangan_berbagi_sepi_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1867,7 +1853,7 @@
       "title": "Thomas Arya - Luka Jadi Cerita  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___luka_jadi_cerita__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1879,7 +1865,7 @@
       "title": "Thomas Arya - Menghapus Rasa Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___menghapus_rasa_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1891,7 +1877,7 @@
       "title": "Thomas Arya - Permata Hati Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___permata_hati_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1903,7 +1889,7 @@
       "title": "Thomas Arya - Pujaan Insan Manja  Versi Akustik ",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___pujaan_insan_manja__versi_akustik_.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1915,7 +1901,7 @@
       "title": "Thomas Arya - Satu Hati Sampai Mati Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___satu_hati_sampai_mati_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1927,7 +1913,7 @@
       "title": "Thomas Arya - Satu Hati Sampai Mati New Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___satu_hati_sampai_mati_new_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1939,7 +1925,7 @@
       "title": "Thomas Arya - Satu Untuk Selamanya Acoustic",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasakustik/thomas_arya___satu_untuk_selamanya_acoustic.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1951,7 +1937,7 @@
       "title": "Ipank - Cinta Hilang Album Slow Rock",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/ipank___cinta_hilang_album_slow_rock.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1963,7 +1949,7 @@
       "title": "Ipank - Sakit Dalam Bercinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/ipank_sakit_dalam_bercinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1975,7 +1961,7 @@
       "title": "Kalia Siska Ft Ska 86 - Apakah Itu Cinta Dj Kentrung",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/kalia_siska_ft_ska_86___apakah_itu_cintadj_kentrung.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1987,7 +1973,7 @@
       "title": "Thomas Arya Ft Elsa Pitaloka - Ku Disini Untukmu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas___elsa___ku_disini_untukmu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -1999,7 +1985,7 @@
       "title": "Thomas Arya Ft Elsa Pitaloka - Rela Demi Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___elsa_pitaloka___rela_demi_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2011,7 +1997,7 @@
       "title": "Thomas Arya Ft Iqa Nizam - Izinkan",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___iqa_nizam___izinkan.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2023,7 +2009,7 @@
       "title": "Thomas Arya Ft Iqa Nizam - Ku Disini Untuk Mu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___iqa_nizam___ku_disini_untuk_mu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2035,7 +2021,7 @@
       "title": "Thomas Arya Ft Iqa Nizam - Pergi Untuk Kembali",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___iqa_nizam___pergi_untuk_kembali.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2047,7 +2033,7 @@
       "title": "Thomas Arya Ft Iqa Nizam - Satu Hati Sampai Mati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___iqa_nizam___satu_hati_sampai_mati.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2059,7 +2045,7 @@
       "title": "Thomas Arya Ft Yelse - Asmara Di Rundung Duka",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___yelse___asmara_di_rundung_duka.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2071,7 +2057,7 @@
       "title": "Thomas Arya Ft Yelse - Cinta Tiada Restu",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___yelse___cinta_tiada_restu.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2083,7 +2069,7 @@
       "title": "Thomas Arya Ft Yelse - Kau Satu Di Hati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___yelse___kau_satu_di_hati.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2095,7 +2081,7 @@
       "title": "Thomas Arya Ft Yelse - Kekasih Sandaran Hati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___yelse___kekasih_sandaran_hati.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2107,7 +2093,7 @@
       "title": "Thomas Arya Ft Yelse - Tak Mungkin Berkasih",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya___yelse___tak_mungkin_berkasih.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -2119,7 +2105,7 @@
       "title": "Thomas Arya Ft Fany Zee - Keegoan Cinta",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/thomasfeat/thomas_arya_feat__fany_zee___keegoan_cinta.mp3",
 	  "gambar": "https://raw.githubusercontent.com/muvitivi/thumb/thomasarya/thomas-arya-01.jpg",
-	  "durasi": "3600",
+	  "durasi": "120",
 	  "lirik": "lirik tenanan"
     }
   ],
