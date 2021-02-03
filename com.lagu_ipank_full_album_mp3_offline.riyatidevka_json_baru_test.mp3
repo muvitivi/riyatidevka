@@ -19,24 +19,6 @@
     }
   ],
   "Batagor": [
-  {
-      "id": 1,
-      "maeman_aut": "ANDRA RESPATI (Online)",
-      "title": "Bahagia Itu Sederhana",
-      "gambar": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "url": "http://aliendro.id/mp3json/mp3/bahagia.mp3",
-      "durasi": "175",
-      "lirik": "<p><span style=\"color:#ffffff\"><strong>1. الرحمن = Ar Rahman</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengasih<br />\r\n<br />\r\n<strong>2. الرحيم = Ar Rahiim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Penyayang<br />\r\n<br />\r\n<strong>3. الملك = Al Malik</strong><br />\r\n<br />\r\nArtinya: Yang Maha Merajai (bisa diartikan Raja dari semua Raja)<br />\r\n<br />\r\n<strong>4. القدوس = Al Quddus</strong><br />\r\n<br />\r\nArtinya: Yang Maha Suci<br />\r\n<br />\r\n<strong>5. السلام = As Salaam</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Kesejahteraan<br />\r\n<br />\r\n<strong>6. المؤمن = Al Mu&#39;min</strong><br />\r\n<br />\r\nArtinya: Yang Maha Memberi Keamanan<br />\r\n<br />\r\n<strong>7. المهيمن = Al Muhaimin</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengatur<br />\r\n<br />\r\n<strong>8. العزيز = Al &#39;Aziiz</strong><br />\r\n<br />\r\nArtinya: Yang Maha Perkasa<br />\r\n<br />\r\n<strong>9. الجبار = Al Jabbar</strong><br />\r\n<br />\r\nArtinya: Yang Memiliki (Mutlak) Kegagahan<br />\r\n<br />\r\n<strong>10. المتكبر = Al Mutakabbir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Megah, yang memiliki kebesaran</span></p>\r\n"
-    },
-    {
-      "id": 2,
-      "maeman_aut": "ANDRA RESPATI (Online)",
-      "title": "Sambung Silaturahim",
-      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrKmaN8afggEfkCuTHrbQ5-v1l4zjUmkVz3A&usqp=CAU",
-      "url": "http://aliendro.id/mp3json/mp3/balikan_lagi.mp3",
-      "durasi": "58",
-      "lirik": "<p><span style=\"color:#ffffff\"><strong>11. الخالق = Al Khaliq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pencipta<br />\r\n<br />\r\n<strong>12. البارئ = Al Baari&#39;</strong><br />\r\n<br />\r\nArtinya: Yang Maha Melepaskan (membuat, membentuk, menyeimbangkan)<br />\r\n<br />\r\n<strong>13. المصور = Al Mushawwir</strong><br />\r\n<br />\r\nArtinya: Yang Maha Membentuk Rupa (makhluk-Nya)<br />\r\n<br />\r\n<strong>14. الغفار = Al Ghaffaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pengampun<br />\r\n<br />\r\n<strong>15. القهار = Al Qahhaar</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menundukkan/Menaklukkan Segala Sesuatu<br />\r\n<br />\r\n<strong>16. الوهاب = Al Wahhaab</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Karunia<br />\r\n<br />\r\n<strong>17. الرزاق = Ar Razzaaq</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pemberi Rezeki<br />\r\n<br />\r\n<strong>18. الفتاح = Al Fattaah</strong><br />\r\n<br />\r\nArtinya: Yang Maha Pembuka Rahmat<br />\r\n<br />\r\n<strong>19. العليم = Al &#39;Aliim</strong><br />\r\n<br />\r\nArtinya: Yang Maha Mengetahui<br />\r\n<br />\r\n<strong>20. القابض = Al Qaabidh</strong><br />\r\n<br />\r\nArtinya: Yang Maha Menyempitkan</span></p>\r\n"
-    },
    
     {
       "no": 38,
@@ -47,7 +29,7 @@
       "title": "80 Juta - Andra Respati",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/80_juta___andra_respati.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "120",
+	  "durasi": "299",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -59,7 +41,7 @@
       "title": "Andra Respati - Bunga",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati_____bunga.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "120",
+	  "durasi": "357",
 	  "lirik": "lirik tenanan"
     },
     {
@@ -71,7 +53,7 @@
       "title": "Andra Respati - Aisyah Istri Rasulullah",
       "url": "https://raw.githubusercontent.com/muvitivi/gudangan/andrarespati/andra_respati___aisyah_istri_rasulullah.mp3",
 	  "gambar": "file:///android_asset/gambar/ipank-01.jpg",
-	  "durasi": "120",
+	  "durasi": "207",
 	  "lirik": "lirik tenanan"
     },
     {
