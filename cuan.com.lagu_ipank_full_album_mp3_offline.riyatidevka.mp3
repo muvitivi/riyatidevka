@@ -14,27 +14,24 @@
       "b1": "ca-app-pub-3940256099942544/6300978111",
       "i1": "ca-app-pub-3940256099942544/1033173712",
       "n1": "ca-app-pub-3940256099942544/2247696110",
-      "oa1": "",
-	  
-	  "sa": "12345678",
-	  
-	  "unid": "true",
-	  "un": "3896203",
-	  "unban": "bannerid",
-	  "unint": "videox",
-	  
-	  "mopid": "12345678",
-	  "mopban": "b195f8dd8ded45fe847ad89ed1d016da",
-	  "mopint": "24534e1901884e398f1253216226017e",
-      
-	  "hs": "testd7c5cewoj6",
+      "oa1": "ca-app-pub-3940256099942544/3419835294",
+      "hs": "testd7c5cewoj6",
       "hb": "testw6vs28auh3",
       "hi": "teste9ih9j0rc3",
       "hnsmall": "testb65czjivt9",
-      "ndaskumumet": "13",
-	  "ceksingatur": "0",
-      "singatur": "oX5OtY2+VvsjSAiDFCezzPhizu4=xxx"
-	  
+	  "sa": "12345678",
+      "unid": "true",
+      "un": "3896203",
+      "unban": "bannerid",
+      "unint": "video",
+      "mopban": "b195f8dd8ded45fe847ad89ed1d016da",
+      "mopint": "24534e1901884e398f1253216226017e",
+      "ndaskumumet": "5",
+	  "ndasmumumet": "5",
+      "singatur": "oX5OtY2+VvsjSAiDFCezzPhizu4=xxx",
+      "ceksingatur": "0",
+      "pekokmen": "a2ltLmFsaWVuZHJvaWQuYXVkaW9vbm9mZg==",
+      "mamuk": "aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL211dml0aXZpL3JpeWF0aWRldmthL25vc2ovY29tLmxhZ3VfaXBhbmtfZnVsbF9hbGJ1bV9tcDNfb2ZmbGluZS5yaXlhdGlkZXZrYV9qc29uX2JhcnVfdGVzdC5tcDM="
     }
   ]
 }
